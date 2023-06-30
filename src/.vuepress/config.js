@@ -1,5 +1,6 @@
 module.exports = {
- 
+ dest: docs,
+ base: '/ingenieria-software/',
   title: 'Ingeniería de Software',
   description: 'Contenido digital de la asignatura Ingeniería de Software',
 
