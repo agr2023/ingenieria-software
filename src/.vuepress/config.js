@@ -1,11 +1,7 @@
 module.exports = {
-<<<<<<< HEAD
-dest: 'docs',
-base: '/ingenieria-software/',
-=======
- dest: 'docs',
- base: '/ingenieria-software/',
->>>>>>> fb3bffd3cc168ef53fac855e804affe87d7d3259
+
+  dest: 'docs',
+  base: '/ingenieria-software/',
   title: 'Ingeniería de Software',
   description: 'Contenido digital de la asignatura Ingeniería de Software',
 
