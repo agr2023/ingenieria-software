@@ -113,13 +113,13 @@ VENTAJAS DE LA TRAZABILIDAD:
 
 <span class='text-blue'>Diagrama de trazabilidad </span>
 
-![Ejemplo trazabilidad](/images/image-1.png)
+<img :src="$withBase('/images/image-1.png')">
 
 <span>Usando la matriz de trazabilidad de requisitos</span>
 
 La **matriz de trazabilidad de requisitos** es una tabla que vincula los requisitos a lo largo del proceso de desarrollo. Ayuda a garantizar que no se pierda ningún requisito y permite una gestión de cambios eficiente cuando se producen cambios.
 
-![matriz de trazabilidad- 1](/images/matriz-trazabilidad.png)
+<img :src="$withBase('/images/matriz-trazabilidad.png')">
 
 ---
 
