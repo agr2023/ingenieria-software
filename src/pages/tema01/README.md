@@ -70,7 +70,7 @@ Tecnicamente hay tres tipos de trazabilidad de requisitos:
 * Trazabilidad bidireccional.
 
 ::: warning Trazabilidad directa:
-Es la trazabilidad desde los requisitos hasta los casos de prueba. Se realiza para garantizar que el proyecto avance en la dirección correcta y que todos y cada uno de los requisitos se prueben correctamente. 
+Es la trazabilridad desde los requisitos hasta los casos de prueba. Se realiza para garantizar que el proyecto avance en la dirección correcta y que todos y cada uno de los requisitos se prueben correctamente. 
 :::
 
 ::: warning Trazabilidad hacia atrás:
